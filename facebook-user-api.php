@@ -61,5 +61,6 @@ else
 {	
 	
 	
+	
 @$fb_login_url = $fb_helper->getLoginUrl('http://localhost/fb-login/', $permissions);
 }
